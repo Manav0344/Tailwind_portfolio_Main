@@ -3,7 +3,7 @@
 A fully responsive and modern **Portfolio Website** built using **HTML, Tailwind CSS, and JavaScript**.
 This project showcases my work, skills, and projects with smooth UI and interactive features.
 
----
+--- https://manav0344.github.io/Tailwind_portfolio_Main/
 
 ## 🚀 Features
 
@@ -48,7 +48,7 @@ project-folder/
 1. Download or clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://manav0344.github.io/Tailwind_portfolio_Main/
 ```
 
 2. Open the project folder
